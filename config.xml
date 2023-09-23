@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>SurveyCompleted</name>
+        <type>plugin</type>
+        <creationDate>2020-10-15</creationDate>
+        <last_update>2020-10-15</last_update>
+        <author>Vitor Mattos (Lyseon Tech)</author>
+        <authorUrl>https://github.com/librecodecoop</authorUrl>
+        <supportUrl>https://github.com/librecodecoop/LSTelegramNotify</supportUrl>
+        <copyright>Copyright (C) 2021 LibreCode Coop.</copyright>
+        <license>GNU General Public License version 2 or later</license>
+        <version>1.0.0</version>
+        <description><![CDATA[Redirect after survey completed]]></description>
+    </metadata>
+
+    <compatibility>
+        <version>6.0</version>
+    </compatibility>
+</config>
