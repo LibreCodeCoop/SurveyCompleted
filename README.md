@@ -9,8 +9,6 @@ The Limesurvey SurveyCompleted plugin allow you to define an url to redirect the
 - Activate the plugin at the Limesurvey plugin manager (requires proper user rights for accessing the feature at the Limesurvey admin interface).
 - Configure the plugin at the settings page
 
-<img src="img/settings.png" />
-
 ### Custom settings by survey
 You can add custom settings by survey.
 
