@@ -15,6 +15,11 @@ class SurveyCompleted extends PluginBase
      */
     static protected $name = 'SurveyCompleted';
 
+    /**
+     * @var string
+     */
+    protected $storage = 'DbStorage';
+
     protected $settings = [
         'RedirectUrl' => [
             'type' => 'string',
